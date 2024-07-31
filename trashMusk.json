@@ -1,10 +1,12 @@
-[
-  {
-    "userName": "LizyNyanjwa",
-    "type": "Spamming/Abroad",
-  },
-  {
-    "userName": "NingennteWinner",
-    "type": "Spamming/Abroad",
-  }
-]
+{
+  "data": [
+    {
+      "userName": "LizyNyanjwa",
+      "type": "Spamming/Abroad",
+    },
+    {
+      "userName": "NingennteWinner",
+      "type": "Spamming/Abroad",
+    }
+  ]
+}
